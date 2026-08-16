@@ -64,9 +64,9 @@ Também gosto de desenvolver e experimentar com:
   src="https://github-stats-extended.vercel.app/api?username=TaktDes&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&locale=pt-br"
   alt="Estatísticas do GitHub"
 />
- <img
+<img
   height="170"
-  src="https://github-readme-stats-beta-rouge-73.vercel.app/api/top-langs/?username=TaktDes&layout=compact&hide=TypeScript"
+  src="https://github-readme-stats-beta-rouge-73.vercel.app/api/top-langs/?username=TaktDes&layout=compact&hide=TypeScript&theme=github_dark&hide_border=true"
   alt="Linguagens mais utilizadas"
 />
 </p>
