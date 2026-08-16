@@ -59,16 +59,16 @@ Também gosto de desenvolver e experimentar com:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=TaktDes&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaktDes&layout=compact&hide_border=true&theme=github_dark&locale=pt-br"
-    alt="Linguagens mais utilizadas"
-  />
+ <img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api?username=TaktDes&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&locale=pt-br"
+  alt="Estatísticas do GitHub"
+/>
+ <img
+  height="170"
+  src="https://github-readme-stats-beta-rouge-73.vercel.app/api/top-langs/?username=TaktDes&layout=compact&hide=TypeScript"
+  alt="Linguagens mais utilizadas"
+/>
 </p>
 
 ---
