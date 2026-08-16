@@ -1,4 +1,4 @@
-# Olá, eu sou o Davi 👋
+# Aoba, eu sou o Davi
 
 > Desenvolvedor criando assistentes, automações e projetos que provavelmente começaram com um *"e se eu fizesse isso eu mesmo?"*
 
