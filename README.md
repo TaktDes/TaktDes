@@ -2,7 +2,7 @@
 
 > Desenvolvedor criando assistentes, automações e projetos que provavelmente começaram com um *"e se eu fizesse isso eu mesmo?"*
 
-Sou desenvolvedor e gosto principalmente de **Inteligência Artificial, desenvolvimento Android, automação e sistemas backend**.
+Sou desenvolvedor e gosto principalmente de **Inteligência Artificial (Não pra programar e sim criação de IA's proprias), desenvolvimento Android, automação e sistemas backend**.
 
 Boa parte dos meus projetos começa como um experimento simples e, de algum jeito, acaba ficando muito maior do que deveria. 🚀
 
