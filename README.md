@@ -61,7 +61,7 @@ Também gosto de desenvolver e experimentar com:
 <p align="center">
  <img
     height="170"
-    src="https://github-readme-stats-asmh.vercel.app/api?username=TaktDes&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&locale=pt-br&commits_year=2026"
+    src="https://github-readme-stats-asmh.vercel.app/api?username=TaktDes&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&locale=pt-br&commits_year=2026&hide=contribs"
     alt="Estatísticas do GitHub"
   />
 <img
